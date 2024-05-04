@@ -31,6 +31,10 @@ Este é um aplicativo de conversão de moedas desenvolvido como parte do desafio
 
 Este é um projeto de código aberto e contribuições são bem-vindas. Sinta-se à vontade para enviar sugestões, correções de bugs ou melhorias através de pull requests.
 
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
 ## Autor
 
 Este projeto foi desenvolvido por Gustavo Oliveira.
